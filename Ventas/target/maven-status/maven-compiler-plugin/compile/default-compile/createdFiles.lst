@@ -1,0 +1,9 @@
+org\web\modelo\ClienteImpl.class
+org\web\entidad\Producto.class
+org\web\servicio\Conectar.class
+org\web\entidad\Cliente.class
+org\web\entidad\Producto_.class
+org\web\entidad\Cliente_.class
+org\web\modelo\ProductoImpl.class
+org\web\interfaces\iVentas.class
+org\web\principal\Ventas.class
